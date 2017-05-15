@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { AlertController, NavController } from 'ionic-angular';
-import { HomePage } from '../home/home';
+//import { HomePage } from '../home/home';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { LoginPage } from '../login/login';
 //import { Datos } from '../../providers/datos';
